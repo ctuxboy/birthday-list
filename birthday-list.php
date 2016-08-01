@@ -5,13 +5,14 @@
  * Description: Deze plugin activeert een aangepaste categorie (custom taxonomy) Verjaardagslijst, om zo een lijst te kunnen samenstellen. Een lijst met de verjaardagslijsten kun je opvragen via de shortcode [Verjaardagslijsten]
  * Author: Christophe Hollebeke
  * Author URI: http://www.Webkust.be/
- * Version: 0.0.1
+ * Version: 0.0.2
  * License: GPLv2
  */
 
 /**
 * Changelog
- * version 0.0.1
+ * version 0.0.2
+ * Customizing css
  */
 
  // Exit if accessed directly.
